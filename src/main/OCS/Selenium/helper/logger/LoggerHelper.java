@@ -12,7 +12,7 @@ public class LoggerHelper {
         if (root) {
             return Logger.getLogger(cls);
         }
-        PropertyConfigurator.configure(ResourceHelper.getResourcePath("src/main/resources/config/log4j.properties"));
+        PropertyConfigurator.configure(ResourceHelper.getResourcePath("src\\main\\resources\\config\\log4j.properties"));
         //PropertyConfigurator.configure("C:\\Users\\rodrigo.lima\\IdeaProjects\\TestNGWithSelenium\\src\\main\\resources\\config\\log4j.properties");
         root = true;
         return Logger.getLogger(cls);

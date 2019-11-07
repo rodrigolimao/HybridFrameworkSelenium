@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/rodrigo.lima/IdeaProjects/TestNGWithSelenium/src/main/OCS/Selenium/TestSuite/TestA.java"><classes><class name="main.OCS.Selenium.TestSuite.TestA"><methods><include name="testLogin"/></methods></class></classes></test></suite>
