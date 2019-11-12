@@ -125,7 +125,7 @@ public class WaitHelper {
     }
 
     public void pageLoadTime(long timeout, TimeUnit unit) {
-        log.info("Waiting for page to load for : " + unit + " seconds");
+        log.info("Waiting for page to load for : " + timeout + " seconds");
         driver.manage().timeouts().pageLoadTimeout(timeout, unit);
         log.info("Page is loaded");
     }

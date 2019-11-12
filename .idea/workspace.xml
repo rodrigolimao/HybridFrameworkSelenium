@@ -15,6 +15,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -35,11 +37,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/OCS" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Git-2.24.0-64-bit.exe" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -49,6 +52,7 @@
       <recent name="main.OCS.Selenium.TestSuite" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rodrigo.lima\IdeaProjects\TestNGWithSelenium\src\main\resources\drivers" />
       <recent name="C:\Users\rodrigo.lima\IdeaProjects\TestNGWithSelenium\src\main\resources" />
       <recent name="C:\Users\rodrigo.lima\IdeaProjects\TestNGWithSelenium\src\main\java" />
     </key>
@@ -65,13 +69,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/rodrigo.lima/IdeaProjects/TestNGWithSelenium/src/main/resources/testSuite/regressionSuite.xml">
-    <configuration name="LoggerHelp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.OCS.Selenium.helper.logger.LoggerHelp" />
+  <component name="RunManager" selected="TestNG.testScreenShot.testScreen">
+    <configuration name="ChromeBrowser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.OCS.Selenium.helper.browserConfiguration.ChromeBrowser" />
       <module name="TestNGWithSelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.OCS.Selenium.helper.logger.*" />
+          <option name="PATTERN" value="main.OCS.Selenium.helper.browserConfiguration.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ResourceHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.OCS.Selenium.helper.resource.ResourceHelper" />
+    <configuration name="ExcelHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.OCS.Selenium.helper.excel.ExcelHelper" />
       <module name="TestNGWithSelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.OCS.Selenium.helper.resource.*" />
+          <option name="PATTERN" value="main.OCS.Selenium.helper.excel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,6 +120,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestA (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGWithSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.OCS.Selenium.TestSuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.OCS.Selenium.TestSuite" />
+      <option name="MAIN_CLASS_NAME" value="main.OCS.Selenium.TestSuite.TestA" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestA" type="TestNG" nameIsGenerated="true">
       <module name="TestNGWithSelenium" />
       <extension name="coverage">
@@ -141,10 +162,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="testScreenShot" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGWithSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.OCS.Selenium.TestSuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.OCS.Selenium.TestSuite" />
+      <option name="MAIN_CLASS_NAME" value="main.OCS.Selenium.TestSuite.testScreenShot" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testScreenShot.testScreen" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGWithSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.OCS.Selenium.TestSuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.OCS.Selenium.TestSuite" />
+      <option name="MAIN_CLASS_NAME" value="main.OCS.Selenium.TestSuite.testScreenShot" />
+      <option name="METHOD_NAME" value="testScreen" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ResourceHelper" />
-        <item itemvalue="Application.LoggerHelp" />
+        <item itemvalue="TestNG.testScreenShot.testScreen" />
+        <item itemvalue="TestNG.testScreenShot" />
+        <item itemvalue="TestNG.TestA (1)" />
+        <item itemvalue="Application.ChromeBrowser" />
+        <item itemvalue="Application.ExcelHelper" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +218,7 @@
       <option name="presentableId" value="Default" />
       <updated>1572899229087</updated>
       <workItem from="1572899234814" duration="29360000" />
-      <workItem from="1573070209800" duration="7134000" />
+      <workItem from="1573070209800" duration="47003000" />
     </task>
     <servers />
   </component>
@@ -178,5 +237,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="fileInputStream.path" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

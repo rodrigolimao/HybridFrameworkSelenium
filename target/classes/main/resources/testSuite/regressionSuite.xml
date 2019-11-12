@@ -15,9 +15,4 @@
             <class name="main.OCS.Selenium.TestSuite.TestB"></class>
         </classes>
     </test>
-    <test name="ThirdTest">
-        <classes>
-            <class name="main.OCS.Selenium.TestSuite.TestC"></class>
-        </classes>
-    </test>
 </suite>

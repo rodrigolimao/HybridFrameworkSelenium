@@ -47,3 +47,96 @@
 2019-11-06 15:11:283 INFO  Retry:16 - Retrying test testLogin with status FAILURE for the 2 times.
 2019-11-06 15:11:296 INFO  Retry:16 - Retrying test testLogin with status FAILURE for the 1 times.
 2019-11-06 15:11:299 INFO  Retry:16 - Retrying test testLogin with status FAILURE for the 2 times.
+2019-11-07 11:11:937 INFO  ExcelHelper:103 - Result updated..
+2019-11-07 11:11:157 INFO  ExcelHelper:103 - Result updated..
+2019-11-07 11:11:211 INFO  ExcelHelper:103 - Result updated..
+2019-11-07 11:11:765 INFO  ExcelHelper:103 - Result updated..
+2019-11-07 11:11:831 INFO  ExcelHelper:103 - Result updated..
+2019-11-07 11:11:48 INFO  ExcelHelper:103 - Result updated..
+2019-11-07 11:11:272 INFO  ExcelHelper:103 - Result updated..
+2019-11-07 11:11:716 INFO  ExcelHelper:103 - Result updated..
+2019-11-07 11:11:233 INFO  ExcelHelper:103 - Result updated..
+2019-11-07 11:11:36 INFO  ExcelHelper:103 - Result updated..
+2019-11-07 11:11:249 INFO  ExcelHelper:103 - Result updated..
+2019-11-07 11:11:301 INFO  ExcelHelper:103 - Result updated..
+2019-11-07 11:11:946 INFO  ExcelHelper:103 - Result updated..
+2019-11-07 11:11:220 INFO  ExcelHelper:103 - Result updated..
+2019-11-07 11:11:280 INFO  ExcelHelper:103 - Result updated..
+2019-11-07 11:11:466 INFO  ExcelHelper:103 - Result updated..
+2019-11-08 11:11:608 INFO  TestBase:67 - **************testLoginStarted***************
+2019-11-08 11:11:612 INFO  AssertionHelper:17 - Making script to PASS..
+2019-11-08 11:11:827 INFO  TestBase:67 - **************testLoginStarted***************
+2019-11-08 11:11:832 INFO  AssertionHelper:17 - Making script to PASS..
+2019-11-08 11:11:665 INFO  TestBase:67 - **************testLoginStarted***************
+2019-11-08 11:11:671 INFO  AssertionHelper:17 - Making script to PASS..
+2019-11-08 11:11:675 INFO  TestBase:67 - **************testLogin1Started***************
+2019-11-08 11:11:676 INFO  AssertionHelper:27 - Making script to FAIL..
+2019-11-08 11:11:689 INFO  TestBase:67 - **************testLogin2Started***************
+2019-11-08 11:11:691 INFO  AssertionHelper:17 - Making script to PASS..
+2019-11-08 11:11:694 INFO  TestBase:67 - **************testLogin3Started***************
+2019-11-08 11:11:695 INFO  AssertionHelper:27 - Making script to FAIL..
+2019-11-08 11:11:776 INFO  TestBase:67 - **************testLoginStarted***************
+2019-11-08 11:11:780 INFO  AssertionHelper:17 - Making script to PASS..
+2019-11-08 11:11:145 INFO  TestBase:67 - **************testLogin1Started***************
+2019-11-08 11:11:146 INFO  AssertionHelper:27 - Making script to FAIL..
+2019-11-08 11:11:262 INFO  TestBase:67 - **************testLogin2Started***************
+2019-11-08 11:11:263 INFO  AssertionHelper:17 - Making script to PASS..
+2019-11-08 11:11:390 INFO  TestBase:67 - **************testLogin3Started***************
+2019-11-08 11:11:392 INFO  AssertionHelper:27 - Making script to FAIL..
+2019-11-08 11:11:810 INFO  TestBase:67 - **************testLoginStarted***************
+2019-11-08 11:11:814 INFO  AssertionHelper:17 - Making script to PASS..
+2019-11-08 11:11:170 INFO  TestBase:67 - **************testLogin1Started***************
+2019-11-08 11:11:171 INFO  AssertionHelper:27 - Making script to FAIL..
+2019-11-08 11:11:189 INFO  Retry:16 - Retrying test testLogin1 with status FAILURE for the 1 times.
+2019-11-08 11:11:299 INFO  TestBase:67 - **************testLogin1Started***************
+2019-11-08 11:11:300 INFO  AssertionHelper:27 - Making script to FAIL..
+2019-11-08 11:11:300 INFO  Retry:16 - Retrying test testLogin1 with status FAILURE for the 2 times.
+2019-11-08 11:11:391 INFO  TestBase:67 - **************testLogin1Started***************
+2019-11-08 11:11:392 INFO  AssertionHelper:27 - Making script to FAIL..
+2019-11-08 11:11:491 INFO  TestBase:67 - **************testLogin2Started***************
+2019-11-08 11:11:492 INFO  AssertionHelper:17 - Making script to PASS..
+2019-11-08 11:11:564 INFO  TestBase:67 - **************testLogin3Started***************
+2019-11-08 11:11:565 INFO  AssertionHelper:27 - Making script to FAIL..
+2019-11-08 11:11:565 INFO  Retry:16 - Retrying test testLogin3 with status FAILURE for the 1 times.
+2019-11-08 11:11:622 INFO  TestBase:67 - **************testLogin3Started***************
+2019-11-08 11:11:625 INFO  AssertionHelper:27 - Making script to FAIL..
+2019-11-08 11:11:625 INFO  Retry:16 - Retrying test testLogin3 with status FAILURE for the 2 times.
+2019-11-08 11:11:699 INFO  TestBase:67 - **************testLogin3Started***************
+2019-11-08 11:11:700 INFO  AssertionHelper:27 - Making script to FAIL..
+2019-11-08 11:11:767 INFO  TestBase:67 - **************testLoginStarted***************
+2019-11-08 11:11:768 INFO  AssertionHelper:17 - Making script to PASS..
+2019-11-08 11:11:807 INFO  TestBase:67 - **************testLogin1Started***************
+2019-11-08 11:11:808 INFO  AssertionHelper:27 - Making script to FAIL..
+2019-11-08 11:11:808 INFO  Retry:16 - Retrying test testLogin1 with status FAILURE for the 1 times.
+2019-11-08 11:11:848 INFO  TestBase:67 - **************testLogin1Started***************
+2019-11-08 11:11:849 INFO  AssertionHelper:27 - Making script to FAIL..
+2019-11-08 11:11:849 INFO  Retry:16 - Retrying test testLogin1 with status FAILURE for the 2 times.
+2019-11-08 11:11:899 INFO  TestBase:67 - **************testLogin1Started***************
+2019-11-08 11:11:899 INFO  AssertionHelper:27 - Making script to FAIL..
+2019-11-08 11:11:945 INFO  TestBase:67 - **************testLogin2Started***************
+2019-11-08 11:11:945 INFO  AssertionHelper:17 - Making script to PASS..
+2019-11-08 11:11:993 INFO  TestBase:67 - **************testLogin3Started***************
+2019-11-08 11:11:994 INFO  AssertionHelper:27 - Making script to FAIL..
+2019-11-08 11:11:994 INFO  Retry:16 - Retrying test testLogin3 with status FAILURE for the 1 times.
+2019-11-08 11:11:42 INFO  TestBase:67 - **************testLogin3Started***************
+2019-11-08 11:11:43 INFO  AssertionHelper:27 - Making script to FAIL..
+2019-11-08 11:11:43 INFO  Retry:16 - Retrying test testLogin3 with status FAILURE for the 2 times.
+2019-11-08 11:11:82 INFO  TestBase:67 - **************testLogin3Started***************
+2019-11-08 11:11:82 INFO  AssertionHelper:27 - Making script to FAIL..
+2019-11-12 11:11:705 INFO  TestBase:130 - Initialize Web driver: 473666452
+2019-11-12 11:11:714 INFO  WaitHelper:32 - Implicit wait has been set to: 120
+2019-11-12 11:11:723 INFO  WaitHelper:128 - Waiting for page to load for : SECONDS seconds
+2019-11-12 11:11:727 INFO  WaitHelper:130 - Page is loaded
+2019-11-12 11:11:907 INFO  TestBase:67 - **************testScreenStarted***************
+2019-11-12 13:11:482 INFO  TestBase:113 - Initialize Web driver: 2123222442
+2019-11-12 13:11:492 INFO  WaitHelper:32 - Implicit wait has been set to: 120
+2019-11-12 13:11:501 INFO  WaitHelper:128 - Waiting for page to load for : 100 seconds
+2019-11-12 13:11:504 INFO  WaitHelper:130 - Page is loaded
+2019-11-12 13:11:708 INFO  TestBase:62 - **************testScreenStarted***************
+2019-11-12 13:11:796 INFO  TestBase:78 - **************testScreenFinished***************
+2019-11-12 13:11:224 INFO  TestBase:113 - Initialize Web driver: 1746570062
+2019-11-12 13:11:234 INFO  WaitHelper:32 - Implicit wait has been set to: 120
+2019-11-12 13:11:242 INFO  WaitHelper:128 - Waiting for page to load for : 100 seconds
+2019-11-12 13:11:246 INFO  WaitHelper:130 - Page is loaded
+2019-11-12 13:11:454 INFO  TestBase:62 - **************testScreenStarted***************
+2019-11-12 13:11:593 INFO  TestBase:78 - **************testScreenFinished***************

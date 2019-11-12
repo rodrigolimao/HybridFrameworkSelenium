@@ -42,11 +42,12 @@
             <artifactId>poi-ooxml</artifactId>
             <version>3.17</version>
         </dependency>
+
         <!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
         <dependency>
             <groupId>com.aventstack</groupId>
             <artifactId>extentreports</artifactId>
-            <version>4.0.9</version>
+            <version>3.1.4</version>
         </dependency>
         <dependency>
             <groupId>org.testng</groupId>
